@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Software Engineer specialized in backend development with Java and Spring ecosystems.<br><br>🔭 Currently working on enterprise-level applications<br>🌱 Always studying, learning and exploring new things<br>💡 Focused on solving problems with high quality<br>🎯 Committed to writing code that is easy to read, maintain and test</p>
+<p align="left">Backend Engineer specialized in backend development with Java and Spring ecosystems.<br><br>🔭 Currently working on enterprise-level applications<br>🌱 Always studying and exploring software development and tech related topics<br>💡 Focused on solving problems with high quality<br>🎯 Committed to writing code that is easy to read, maintain and test</p>
 
 ###
 
