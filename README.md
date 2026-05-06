@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">Backend Engineer specialized in backend development with Java and Spring ecosystems.<br><br>🔭 Currently working on enterprise-level applications<br>🌱 Always studying and exploring software development and tech related topics<br>💡 Focused on solving problems with high quality<br>🎯 Committed to writing code that is easy to read, maintain and test</p>
+<p align="left">
+  Backend Engineer specialized in backend development with Java and Spring ecosystems.<br><br>
+🔭 Currently working on enterprise-level applications at BESTSELLER<br>
+🌱 Always sharpening the knife in microservices, distributed systems, and software architecture<br>
+💬 Ask me anything Java, Spring, microservices and... Kafka!<br>
+💡 Interested in learning Golang<br>
+🎯 Committed to writing code that is easy to read, maintain and test</p>
 
 ###
 
